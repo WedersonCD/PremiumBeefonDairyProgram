@@ -1,0 +1,688 @@
+Cow or Herd: 2
+Herd interest_rate: 0.005000
+Started ...
+1025	2	6	2	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 537.460372
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 6.940280
+Feed Cost: -140.452420
+Calf Value: 33.918758
+Non-Reproductive Cull: -94.117656
+Mortality Cost: -17.832406
+Reproductive Cull: 5.554177
+Reproduction Costs: 39.729639
+Started ...
+875	2	6	0	0.200000	0.000000	
+Col: 150
+
+COW VALUE: 1039.347726
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 455.242333
+Feed Cost: 122.174053
+Calf Value: -1.340274
+Non-Reproductive Cull: -146.498117
+Mortality Cost: -27.756895
+Reproductive Cull: -67.288332
+Reproduction Costs: 1.094958
+Started ...
+425	1	2	0	0.000000	0.100000	
+Col: 150
+
+COW VALUE: 1237.971326
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 410.157227
+Feed Cost: 122.407058
+Calf Value: 5.023607
+Non-Reproductive Cull: 7.188285
+Mortality Cost: 1.361959
+Reproductive Cull: -4.885403
+Reproduction Costs: -7.001407
+Started ...
+111	3	2	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 860.986980
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 564.408730
+Feed Cost: -223.109942
+Calf Value: 0.663214
+Non-Reproductive Cull: -144.621547
+Mortality Cost: -27.401343
+Reproductive Cull: 1.636690
+Reproduction Costs: -14.308821
+Started ...
+235	4	3	1	-0.200000	0.000000	
+Col: 150
+
+COW VALUE: 86.840021
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -130.473437
+Feed Cost: -434.572696
+Calf Value: 28.130640
+Non-Reproductive Cull: -129.552158
+Mortality Cost: -24.546156
+Reproductive Cull: 30.896873
+Reproduction Costs: 43.236955
+Started ...
+365	5	7	3	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 420.226357
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -55.141573
+Feed Cost: -106.349814
+Calf Value: 39.093665
+Non-Reproductive Cull: -180.167540
+Mortality Cost: -34.136217
+Reproductive Cull: 18.579067
+Reproduction Costs: 34.628769
+Started ...
+489	5	3	1	0.000000	-0.100000	
+Col: 150
+
+COW VALUE: 288.047170
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2.260793
+Feed Cost: -351.876892
+Calf Value: 27.395924
+Non-Reproductive Cull: -141.878130
+Mortality Cost: -26.881549
+Reproductive Cull: 32.353883
+Reproduction Costs: 42.953142
+Started ...
+781	4	4	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 544.891046
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 246.274017
+Feed Cost: -157.986731
+Calf Value: 0.679166
+Non-Reproductive Cull: -190.673570
+Mortality Cost: -36.126787
+Reproductive Cull: -15.666230
+Reproduction Costs: -5.328818
+Started ...
+225	3	10	0	0.200000	-0.100000	
+Col: 150
+
+COW VALUE: 198.215270
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -53.827674
+Feed Cost: 71.242896
+Calf Value: -12.863464
+Non-Reproductive Cull: -223.296177
+Mortality Cost: -42.307769
+Reproductive Cull: -258.750470
+Reproduction Costs: 14.297928
+Started ...
+2236	2	1	0	0.300000	0.100000	
+Col: 150
+
+COW VALUE: 2997.419038
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2042.904258
+Feed Cost: 354.803586
+Calf Value: -2.460610
+Non-Reproductive Cull: -84.555980
+Mortality Cost: -16.020762
+Reproductive Cull: 4.426887
+Reproduction Costs: -5.398341
+Started ...
+1025	2	6	2	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 537.460372
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 6.940280
+Feed Cost: -140.452420
+Calf Value: 33.918758
+Non-Reproductive Cull: -94.117656
+Mortality Cost: -17.832406
+Reproductive Cull: 5.554177
+Reproduction Costs: 39.729639
+Started ...
+875	2	6	0	0.200000	0.000000	
+Col: 150
+
+COW VALUE: 1039.347726
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 455.242333
+Feed Cost: 122.174053
+Calf Value: -1.340274
+Non-Reproductive Cull: -146.498117
+Mortality Cost: -27.756895
+Reproductive Cull: -67.288332
+Reproduction Costs: 1.094958
+Started ...
+425	1	2	0	0.000000	0.100000	
+Col: 150
+
+COW VALUE: 1237.971326
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 410.157227
+Feed Cost: 122.407058
+Calf Value: 5.023607
+Non-Reproductive Cull: 7.188285
+Mortality Cost: 1.361959
+Reproductive Cull: -4.885403
+Reproduction Costs: -7.001407
+Started ...
+111	3	2	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 860.986980
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 564.408730
+Feed Cost: -223.109942
+Calf Value: 0.663214
+Non-Reproductive Cull: -144.621547
+Mortality Cost: -27.401343
+Reproductive Cull: 1.636690
+Reproduction Costs: -14.308821
+Started ...
+235	4	3	1	-0.200000	0.000000	
+Col: 150
+
+COW VALUE: 86.840021
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -130.473437
+Feed Cost: -434.572696
+Calf Value: 28.130640
+Non-Reproductive Cull: -129.552158
+Mortality Cost: -24.546156
+Reproductive Cull: 30.896873
+Reproduction Costs: 43.236955
+Started ...
+365	5	7	3	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 420.226357
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -55.141573
+Feed Cost: -106.349814
+Calf Value: 39.093665
+Non-Reproductive Cull: -180.167540
+Mortality Cost: -34.136217
+Reproductive Cull: 18.579067
+Reproduction Costs: 34.628769
+Started ...
+489	5	3	1	0.000000	-0.100000	
+Col: 150
+
+COW VALUE: 288.047170
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2.260793
+Feed Cost: -351.876892
+Calf Value: 27.395924
+Non-Reproductive Cull: -141.878130
+Mortality Cost: -26.881549
+Reproductive Cull: 32.353883
+Reproduction Costs: 42.953142
+Started ...
+781	4	4	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 544.891046
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 246.274017
+Feed Cost: -157.986731
+Calf Value: 0.679166
+Non-Reproductive Cull: -190.673570
+Mortality Cost: -36.126787
+Reproductive Cull: -15.666230
+Reproduction Costs: -5.328818
+Started ...
+225	3	10	0	0.200000	-0.100000	
+Col: 150
+
+COW VALUE: 198.215270
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -53.827674
+Feed Cost: 71.242896
+Calf Value: -12.863464
+Non-Reproductive Cull: -223.296177
+Mortality Cost: -42.307769
+Reproductive Cull: -258.750470
+Reproduction Costs: 14.297928
+Started ...
+2236	2	1	0	0.300000	0.100000	
+Col: 150
+
+COW VALUE: 2997.419038
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2042.904258
+Feed Cost: 354.803586
+Calf Value: -2.460610
+Non-Reproductive Cull: -84.555980
+Mortality Cost: -16.020762
+Reproductive Cull: 4.426887
+Reproduction Costs: -5.398341
+Started ...
+1025	2	6	2	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 537.460372
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 6.940280
+Feed Cost: -140.452420
+Calf Value: 33.918758
+Non-Reproductive Cull: -94.117656
+Mortality Cost: -17.832406
+Reproductive Cull: 5.554177
+Reproduction Costs: 39.729639
+Started ...
+875	2	6	0	0.200000	0.000000	
+Col: 150
+
+COW VALUE: 1039.347726
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 455.242333
+Feed Cost: 122.174053
+Calf Value: -1.340274
+Non-Reproductive Cull: -146.498117
+Mortality Cost: -27.756895
+Reproductive Cull: -67.288332
+Reproduction Costs: 1.094958
+Started ...
+425	1	2	0	0.000000	0.100000	
+Col: 150
+
+COW VALUE: 1237.971326
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 410.157227
+Feed Cost: 122.407058
+Calf Value: 5.023607
+Non-Reproductive Cull: 7.188285
+Mortality Cost: 1.361959
+Reproductive Cull: -4.885403
+Reproduction Costs: -7.001407
+Started ...
+111	3	2	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 860.986980
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 564.408730
+Feed Cost: -223.109942
+Calf Value: 0.663214
+Non-Reproductive Cull: -144.621547
+Mortality Cost: -27.401343
+Reproductive Cull: 1.636690
+Reproduction Costs: -14.308821
+Started ...
+235	4	3	1	-0.200000	0.000000	
+Col: 150
+
+COW VALUE: 86.840021
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -130.473437
+Feed Cost: -434.572696
+Calf Value: 28.130640
+Non-Reproductive Cull: -129.552158
+Mortality Cost: -24.546156
+Reproductive Cull: 30.896873
+Reproduction Costs: 43.236955
+Started ...
+365	5	7	3	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 420.226357
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -55.141573
+Feed Cost: -106.349814
+Calf Value: 39.093665
+Non-Reproductive Cull: -180.167540
+Mortality Cost: -34.136217
+Reproductive Cull: 18.579067
+Reproduction Costs: 34.628769
+Started ...
+489	5	3	1	0.000000	-0.100000	
+Col: 150
+
+COW VALUE: 288.047170
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2.260793
+Feed Cost: -351.876892
+Calf Value: 27.395924
+Non-Reproductive Cull: -141.878130
+Mortality Cost: -26.881549
+Reproductive Cull: 32.353883
+Reproduction Costs: 42.953142
+Started ...
+781	4	4	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 544.891046
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 246.274017
+Feed Cost: -157.986731
+Calf Value: 0.679166
+Non-Reproductive Cull: -190.673570
+Mortality Cost: -36.126787
+Reproductive Cull: -15.666230
+Reproduction Costs: -5.328818
+Started ...
+225	3	10	0	0.200000	-0.100000	
+Col: 150
+
+COW VALUE: 198.215270
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -53.827674
+Feed Cost: 71.242896
+Calf Value: -12.863464
+Non-Reproductive Cull: -223.296177
+Mortality Cost: -42.307769
+Reproductive Cull: -258.750470
+Reproduction Costs: 14.297928
+Started ...
+2236	2	1	0	0.300000	0.100000	
+Col: 150
+
+COW VALUE: 2997.419038
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2042.904258
+Feed Cost: 354.803586
+Calf Value: -2.460610
+Non-Reproductive Cull: -84.555980
+Mortality Cost: -16.020762
+Reproductive Cull: 4.426887
+Reproduction Costs: -5.398341
+Started ...
+1025	2	6	2	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 537.460372
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 6.940280
+Feed Cost: -140.452420
+Calf Value: 33.918758
+Non-Reproductive Cull: -94.117656
+Mortality Cost: -17.832406
+Reproductive Cull: 5.554177
+Reproduction Costs: 39.729639
+Started ...
+875	2	6	0	0.200000	0.000000	
+Col: 150
+
+COW VALUE: 1039.347726
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 455.242333
+Feed Cost: 122.174053
+Calf Value: -1.340274
+Non-Reproductive Cull: -146.498117
+Mortality Cost: -27.756895
+Reproductive Cull: -67.288332
+Reproduction Costs: 1.094958
+Started ...
+425	1	2	0	0.000000	0.100000	
+Col: 150
+
+COW VALUE: 1237.971326
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 410.157227
+Feed Cost: 122.407058
+Calf Value: 5.023607
+Non-Reproductive Cull: 7.188285
+Mortality Cost: 1.361959
+Reproductive Cull: -4.885403
+Reproduction Costs: -7.001407
+Started ...
+111	3	2	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 860.986980
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 564.408730
+Feed Cost: -223.109942
+Calf Value: 0.663214
+Non-Reproductive Cull: -144.621547
+Mortality Cost: -27.401343
+Reproductive Cull: 1.636690
+Reproduction Costs: -14.308821
+Started ...
+235	4	3	1	-0.200000	0.000000	
+Col: 150
+
+COW VALUE: 86.840021
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -130.473437
+Feed Cost: -434.572696
+Calf Value: 28.130640
+Non-Reproductive Cull: -129.552158
+Mortality Cost: -24.546156
+Reproductive Cull: 30.896873
+Reproduction Costs: 43.236955
+Started ...
+365	5	7	3	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 420.226357
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -55.141573
+Feed Cost: -106.349814
+Calf Value: 39.093665
+Non-Reproductive Cull: -180.167540
+Mortality Cost: -34.136217
+Reproductive Cull: 18.579067
+Reproduction Costs: 34.628769
+Started ...
+489	5	3	1	0.000000	-0.100000	
+Col: 150
+
+COW VALUE: 288.047170
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2.260793
+Feed Cost: -351.876892
+Calf Value: 27.395924
+Non-Reproductive Cull: -141.878130
+Mortality Cost: -26.881549
+Reproductive Cull: 32.353883
+Reproduction Costs: 42.953142
+Started ...
+781	4	4	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 544.891046
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 246.274017
+Feed Cost: -157.986731
+Calf Value: 0.679166
+Non-Reproductive Cull: -190.673570
+Mortality Cost: -36.126787
+Reproductive Cull: -15.666230
+Reproduction Costs: -5.328818
+Started ...
+225	3	10	0	0.200000	-0.100000	
+Col: 150
+
+COW VALUE: 198.215270
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -53.827674
+Feed Cost: 71.242896
+Calf Value: -12.863464
+Non-Reproductive Cull: -223.296177
+Mortality Cost: -42.307769
+Reproductive Cull: -258.750470
+Reproduction Costs: 14.297928
+Started ...
+2236	2	1	0	0.300000	0.100000	
+Col: 150
+
+COW VALUE: 2997.419038
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2042.904258
+Feed Cost: 354.803586
+Calf Value: -2.460610
+Non-Reproductive Cull: -84.555980
+Mortality Cost: -16.020762
+Reproductive Cull: 4.426887
+Reproduction Costs: -5.398341
+Started ...
+1025	2	6	2	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 537.460372
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 6.940280
+Feed Cost: -140.452420
+Calf Value: 33.918758
+Non-Reproductive Cull: -94.117656
+Mortality Cost: -17.832406
+Reproductive Cull: 5.554177
+Reproduction Costs: 39.729639
+Started ...
+875	2	6	0	0.200000	0.000000	
+Col: 150
+
+COW VALUE: 1039.347726
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 455.242333
+Feed Cost: 122.174053
+Calf Value: -1.340274
+Non-Reproductive Cull: -146.498117
+Mortality Cost: -27.756895
+Reproductive Cull: -67.288332
+Reproduction Costs: 1.094958
+Started ...
+425	1	2	0	0.000000	0.100000	
+Col: 150
+
+COW VALUE: 1237.971326
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 410.157227
+Feed Cost: 122.407058
+Calf Value: 5.023607
+Non-Reproductive Cull: 7.188285
+Mortality Cost: 1.361959
+Reproductive Cull: -4.885403
+Reproduction Costs: -7.001407
+Started ...
+111	3	2	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 860.986980
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 564.408730
+Feed Cost: -223.109942
+Calf Value: 0.663214
+Non-Reproductive Cull: -144.621547
+Mortality Cost: -27.401343
+Reproductive Cull: 1.636690
+Reproduction Costs: -14.308821
+Started ...
+235	4	3	1	-0.200000	0.000000	
+Col: 150
+
+COW VALUE: 86.840021
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -130.473437
+Feed Cost: -434.572696
+Calf Value: 28.130640
+Non-Reproductive Cull: -129.552158
+Mortality Cost: -24.546156
+Reproductive Cull: 30.896873
+Reproduction Costs: 43.236955
+Started ...
+365	5	7	3	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 420.226357
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -55.141573
+Feed Cost: -106.349814
+Calf Value: 39.093665
+Non-Reproductive Cull: -180.167540
+Mortality Cost: -34.136217
+Reproductive Cull: 18.579067
+Reproduction Costs: 34.628769
+Started ...
+489	5	3	1	0.000000	-0.100000	
+Col: 150
+
+COW VALUE: 288.047170
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 2.260793
+Feed Cost: -351.876892
+Calf Value: 27.395924
+Non-Reproductive Cull: -141.878130
+Mortality Cost: -26.881549
+Reproductive Cull: 32.353883
+Reproduction Costs: 42.953142
+Started ...
+781	4	4	0	0.000000	0.000000	
+Col: 150
+
+COW VALUE: 544.891046
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: 246.274017
+Feed Cost: -157.986731
+Calf Value: 0.679166
+Non-Reproductive Cull: -190.673570
+Mortality Cost: -36.126787
+Reproductive Cull: -15.666230
+Reproduction Costs: -5.328818
+Started ...
+225	3	10	0	0.200000	-0.100000	
+Col: 150
+
+COW VALUE: 198.215270
+
+<strong>Compared Against Replacement</strong>
+Milk Sales: -53.827674
+Feed Cost: 71.242896
+Calf Value: -12.863464
+Non-Reproductive Cull: -223.296177
+Mortality Cost: -42.307769
+Reproductive Cull: -258.750470
+Reproduction Costs: 14.297928

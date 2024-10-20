@@ -1,0 +1,3 @@
+make
+./calculate > results
+
