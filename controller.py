@@ -10,7 +10,7 @@ inputVariablesDict  = {
     "expectedProductionRestOfLactation_cow":100,
     "expectedProductionNextLactation_cow":100,
     "additionalMilkReplacement_cow":0,
-    "herdTurnoverRatio_cow":32,
+    "herdTurnoverRatio_cow":35,
     "rha_cow":24000,
     "pregnancyRate_21_D_cow":20,
     "reproCost_cow":20,
